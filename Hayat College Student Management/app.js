@@ -1,6 +1,6 @@
 
 // need to student and course class with midterm and final.
-class Score {
+class Note {
   constructor(courseId, midterm, final) {
     this.courseId = courseId;
     this.midterm = midterm;
